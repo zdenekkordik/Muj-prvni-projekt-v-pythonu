@@ -8,7 +8,7 @@ print("Druhý způsob s proměnou", cislo)
 # Vytvoření proměnné s názvem text
 text = "Zde je v proměnné uložený text" # Datový typ string
 
-# Do konzole vypsiujeme obě proměné, oddělujeme čárkou
+# Do konzole vypsiujeme obě proměnné, oddělujeme čárkou
 print(text, cislo)
 
 # text - proměnná text vypíš co je v ní uložené
@@ -22,5 +22,5 @@ vstupni_promenna = input() # input() - Příkaz pro vstupní data
 
 druha_vstupni_promenna = input("Zadejte číslo: ")
 
-# print() nám vypíše do konzole, co uživatel zdal to inputu 
+# print() nám vypíše do konzole, co uživatel zadal to inputu 
 print(vstupni_promenna, druha_vstupni_promenna)

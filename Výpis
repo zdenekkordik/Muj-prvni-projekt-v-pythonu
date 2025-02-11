@@ -1,0 +1,10 @@
+jmeno = "Zdeněk"
+prijmeni = "Kordík"
+vek = 16
+vyska_v_metrech = 1.75
+pohlavi = 0
+
+print("Pohlaví 1 (True) - Holka, 0 (False) - Kluk")
+print(jmeno , prijmeni)
+print(f"Je mu {vek} let a měří {vyska_v_metrech} metrů")
+print(f"Pohlaví - {pohlavi}")
