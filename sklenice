@@ -1,0 +1,39 @@
+sklenice1 = "mléko - herdyn"
+sklenice2 = "pivo"
+
+print("Sklenice1 = ", sklenice1)
+print("Sklenice2 = ", sklenice2)
+print("Přidáme sklenici3")
+
+sklenice3 = ""
+
+print("Sklenice3 = ", sklenice3)
+print("Právě jsem přelil sklenice1 do sklenice3")
+
+sklenice1 = ""
+sklenice2 = "pivo"
+sklenice3 = "mléko - herdyn"
+
+print("Sklenice3 = ", sklenice3)
+print("Sklenice2 = ", sklenice2)
+print("Sklenice1 = ", sklenice1)
+
+print("Právě jsem přelil sklenice2 do sklenice 1")
+
+sklenice3 = "mléko - herdyn"
+sklenice2 = ""
+sklenice1 = "pivo"
+
+print("Sklenice3 = ", sklenice3)
+print("Sklenice2 = ", sklenice2)
+print("Sklenice1 = ", sklenice1)
+
+print("Právě jsem přelil sklenice3 do sklenice2")
+
+sklenice3 = ""
+sklenice2 = "mléko - herdyn"
+sklenice1 = "pivo"
+
+print("Sklenice3 = ", sklenice3)
+print("Sklenice2 = ", sklenice2)
+print("Sklenice1 = ", sklenice1)
